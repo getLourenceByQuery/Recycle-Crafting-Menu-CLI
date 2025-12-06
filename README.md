@@ -2,7 +2,7 @@
 
 This project is a Command Line Interface (CLI) application built in Python that guides users through various crafting instructions using recycled household materials like plastic bottles, cardboard, glass jars, and more. It utilizes the powerful rich library to provide a clean, visually appealing, and organized terminal experience.
 
-
+<hr>
 <h2>✨ Key Features </h2>
 
 <b>Material-Based Browsing</b>: Users can browse crafting projects organized by the primary recyclable material (e.g., Plastic Bottle, Cardboard, Aluminum Can).
@@ -17,7 +17,7 @@ This project is a Command Line Interface (CLI) application built in Python that 
 
 <b>Persistent Data Storage</b>: Crafting instructions are stored and managed in a structured products.json file, ensuring data persists across application runs.
 
-
+<hr>
 <h2>🚀 How to Run</h2>
 
 Install Libraries:
@@ -39,3 +39,22 @@ Run the application:
 ```bash
 python final.py
 ```
+<hr>
+
+<h2>📸 Demo and Usage</h2>
+
+<hr>
+
+![Navigation Menu UI](assets/nav.png)
+<hr>
+
+![Material Selection UI](assets/matSec.png)
+<hr>
+
+![Product Selection UI](assets/prodSec.png)
+<hr>
+
+![Instructions UI](assets/step.png)
+<hr>
+
+
