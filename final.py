@@ -14,9 +14,9 @@ import json
 
 console = Console()
 
-##dev: Christian Jade Pulong
-##dev: Marlon Ong
-##dev: Lourence Lorejas
+##dev: Christian Jade Pulong 
+##dev: Marlon Ong 
+##dev: Lourence Lorejas 
 
 
 ## #info-------------------------------------------------------------------------------------------------------------------------------------------------------
