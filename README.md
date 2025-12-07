@@ -26,11 +26,6 @@ Bash
 
 ```bash
 pip install rich
-```
-
-Bash 
-
-```bash
 pip install re
 ```
 
