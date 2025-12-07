@@ -1,9 +1,11 @@
-<hr><h1> ♻️ Recycle Crafting Menu CLI </h1>
+<hr>
+<h1> ♻️ Recycle Crafting Menu CLI </h1>
 
 This project is a Command Line Interface (CLI) application built in Python that guides users through various crafting instructions using recycled household materials like plastic bottles, cardboard, glass jars, and more. It utilizes the powerful rich library to provide a clean, visually appealing, and organized terminal experience.
 
 <hr>
 <br>
+
 <h2>✨ Key Features </h2>
 
 <b>Material-Based Browsing</b>: Users can browse crafting projects organized by the primary recyclable material (e.g., Plastic Bottle, Cardboard, Aluminum Can).
@@ -42,13 +44,13 @@ python final.py
 <hr>
 
 ![Navigation Menu UI](assets/nav.png)
-<hr>
+
 
 ![Material Selection UI](assets/matSec.png)
-<hr>
+
 
 ![Product Selection UI](assets/prodSec.png)
-<hr>
+
 
 ![Instructions UI](assets/step.png)
 <hr>
